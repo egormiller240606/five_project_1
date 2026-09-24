@@ -17,3 +17,9 @@ Time-series of stock returns —— racking one specific stock (or the entire ma
 Out-of-sample R² (R-squared) —— a statistical metric that measures how well a predictive model performs on new, unseen data.
 
 Valuation ratio —— a financial metric used to determine whether a stock (or the overall market) is cheap, expensive, or fairly priced relative to its underlying business fundamentals.
+
+Speculative and short-term trading motives - buying and selling stocks quickly just to make a fast profit from price swings
+
+Market capitalization = value of all company stock
+
+Shares buy-backs - it is when a company uses its own cash to buy its own stock from the market to make the remaining shares more valuable.
