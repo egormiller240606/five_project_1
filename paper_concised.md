@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 China’s stock market has climbed to a record high of more than USD 10 trillion, making it the second-largest in the world after the US.
 
@@ -11,7 +11,7 @@ In the last millennium, China has been experiencing a highly dynamic development
 
 This makes China a great target for the implementation of machine learning techniques for future analysis in the field of empirical asset pricing. 
 
-# Problem
+## Problem
 
 Due to hard governmental regulations of the China's stock market, its relationship-driven nature, and its limited history of short sales, Chinese market lacks a large data base of factor returns.
 
