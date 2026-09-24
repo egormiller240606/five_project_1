@@ -1,1 +1,19 @@
+Retail investor —— индивидуальный НЕ профессионал, который покупает и продает securities.
 
+Turnover —— the total money a business collects from customers before subtracting any operating expenses, taxes, or production costs. 
+
+Stock-level characteristics —— specific, measurable traits of an individual company (e.g., P/E ratio, trading volume, company size) used to explain its unique price movements.
+
+Macroeconomic variables —— road, economy-wide indicators (e.g., interest rates, GDP growth, inflation) that affect the entire stock market simultaneously.
+
+Industry dummies —— statistical placeholders (coded as 1 or 0) used in research models to isolate and control for the natural, baseline differences between specific business sectors (e.g., Tech vs. Utilities).
+
+Abnormal turnover ratio (atr) —— это отклонение реального показателя оборачиваемости от его исторического, отраслевого или ожидаемого нормального значения.
+
+Cross-section of stock returns —— comparing many different stocks at a single point in time (or over a specific period).
+
+Time-series of stock returns —— racking one specific stock (or the entire market index) across many different time periods.
+
+Out-of-sample R² (R-squared) —— a statistical metric that measures how well a predictive model performs on new, unseen data.
+
+Valuation ratio —— a financial metric used to determine whether a stock (or the overall market) is cheap, expensive, or fairly priced relative to its underlying business fundamentals.
