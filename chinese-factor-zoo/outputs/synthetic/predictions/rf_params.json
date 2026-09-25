@@ -1,0 +1,74 @@
+[
+  {
+    "test_start": "2012-01-31",
+    "params": {
+      "max_depth": 3,
+      "n_estimators": 8,
+      "max_features": 20
+    }
+  },
+  {
+    "test_start": "2013-01-31",
+    "params": {
+      "max_depth": 3,
+      "n_estimators": 8,
+      "max_features": 20
+    }
+  },
+  {
+    "test_start": "2014-01-31",
+    "params": {
+      "max_depth": 3,
+      "n_estimators": 8,
+      "max_features": 20
+    }
+  },
+  {
+    "test_start": "2015-01-31",
+    "params": {
+      "max_depth": 3,
+      "n_estimators": 8,
+      "max_features": 20
+    }
+  },
+  {
+    "test_start": "2016-01-31",
+    "params": {
+      "max_depth": 3,
+      "n_estimators": 8,
+      "max_features": 20
+    }
+  },
+  {
+    "test_start": "2017-01-31",
+    "params": {
+      "max_depth": 3,
+      "n_estimators": 8,
+      "max_features": 20
+    }
+  },
+  {
+    "test_start": "2018-01-31",
+    "params": {
+      "max_depth": 3,
+      "n_estimators": 8,
+      "max_features": 20
+    }
+  },
+  {
+    "test_start": "2019-01-31",
+    "params": {
+      "max_depth": 3,
+      "n_estimators": 8,
+      "max_features": 20
+    }
+  },
+  {
+    "test_start": "2020-01-31",
+    "params": {
+      "max_depth": 3,
+      "n_estimators": 8,
+      "max_features": 20
+    }
+  }
+]

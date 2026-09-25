@@ -1,0 +1,13 @@
+# Synthetic data are for pipeline validation only. They are deliberately not
+# calibrated to reproduce the paper's exact R2/Sharpe numbers.
+n_stocks: 120
+start: 2000-01-31
+end: 2020-06-30
+seed: 2026
+signal_monthly_std: 0.012
+idiosyncratic_monthly_std: 0.055
+market_monthly_std: 0.020
+
+# Representative quick run used for the included example results.
+quick_models: [ols3_h, rf, nn4]
+full_models: [ols_h, ols3_h, pls, lasso_h, enet_h, gbrt_h, rf, vasa, nn1, nn2, nn3, nn4, nn5]

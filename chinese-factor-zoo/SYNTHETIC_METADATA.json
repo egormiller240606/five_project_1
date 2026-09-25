@@ -1,0 +1,18 @@
+{
+  "n_stocks": 120,
+  "start": "2000-01-31",
+  "end": "2020-06-30",
+  "seed": 2026,
+  "n_industries": 80,
+  "signal_monthly_std": 0.012,
+  "idiosyncratic_monthly_std": 0.055,
+  "market_monthly_std": 0.02,
+  "n_months": 246,
+  "n_rows": 29520,
+  "n_characteristics": 90,
+  "n_macro": 11,
+  "observed_industries": 80,
+  "storage_format": "csv",
+  "signal_variance_share_approx": 0.04133559415075397,
+  "warning": "Synthetic data validate the pipeline; they are not a replication of WIND/CSMAR empirical estimates."
+}

@@ -1,0 +1,13 @@
+monthly:
+  train_start: 2000-01-01
+  first_train_end: 2008-12-31
+  validation_years: 3
+  test_years: 1
+  final_test_end: 2020-06-30
+  refit_frequency: yearly
+
+portfolio:
+  n_quantiles: 10
+  weighting: value
+  rebalance: monthly
+  transaction_cost_bps: [0, 20, 40, 60, 80]

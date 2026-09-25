@@ -1,0 +1,20 @@
+paths:
+  stock_characteristics: data/raw/stock_characteristics.parquet
+  macro: data/raw/macro.parquet
+  monthly_returns: data/raw/monthly_returns.parquet
+  output_panel: data/processed/model_panel.parquet
+columns:
+  stock_id: stock_id
+  date: date
+  return: return
+  risk_free: risk_free
+  market_cap: market_cap
+  industry: industry
+  soe: soe
+  avg_mcap_per_shareholder: avg_mcap_per_shareholder
+preprocessing:
+  rank_to_minus1_plus1: true
+  missing_rank_value: 0.0
+  create_industry_dummies: true
+  expected_industry_dummies: 80
+  add_macro_interactions: true
