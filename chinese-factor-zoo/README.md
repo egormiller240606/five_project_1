@@ -1,6 +1,6 @@
 # Machine Learning in the Chinese Factor Zoo — clean-room reproduction
 
-Student-friendly clean-room implementation of Leippold, Wang & Zhou (2022). The project has two modes:
+Our implementation of Leippold, Wang & Zhou (2022). The project has two modes:
 
 1. **Synthetic demo** — runs without proprietary data and proves the whole pipeline works end-to-end.
 2. **Real-data replication** — same pipeline, but using WIND/CSMAR/NBS-compatible exports.
