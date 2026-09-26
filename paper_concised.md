@@ -18,3 +18,7 @@ Due to hard governmental regulations of the China's stock market, its relationsh
 Future development of the financial system requires financial instruments, aimed at predicting stock prices and market's behavior.
 
 The paper attempts to build a unique and comprehensive set of factors for empirical asset pricing model, applying machine learning instruments and knowledge of financial factors, contributing to the volatility of the asset prices.
+
+## Conclusion
+
+Machine learning, especially neural networks, predicts Chinese stock returns even better than in the US, likely because of China's retail-dominated, policy-influenced, short-sale-restricted market structure. Liquidity beats momentum as the top signal (opposite of the US), small stocks are more predictable short-term while SOEs/large stocks are more predictable long-term, and returns stay significant even after transaction costs and trading constraints. A good example of how market structure shapes ML performance in finance.
